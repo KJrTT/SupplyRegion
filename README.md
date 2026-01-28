@@ -12,4 +12,8 @@
 https://github.com/KJrTT/SupplyRegion/releases/tag/Exe-file
 ```
 
-Остальные подробности о проекте можно найти на git-wiki
+## Остальные подробности о проекте можно найти на git-wiki
+
+```
+https://github.com/KJrTT/SupplyRegion/wiki
+```
