@@ -8,12 +8,11 @@
 ## Запуск приложения
 Для запуска приложения достаточно скачать zip - архив и разархивировать его. После этого ищем исполняющий файл (.exe) и 2 раза кликаем.
 
-```
-https://github.com/KJrTT/SupplyRegion/releases/tag/Exe-file
-```
+[Ссылка на скачивание](https://github.com/KJrTT/SupplyRegion/releases/tag/Exe-file)      
+
 
 ## Остальные подробности о проекте можно найти на git-wiki
 
-```
-https://github.com/KJrTT/SupplyRegion/wiki
-```
+[Ссылка на git-wiki](https://github.com/KJrTT/SupplyRegion/wiki)
+
+
