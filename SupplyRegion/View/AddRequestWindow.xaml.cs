@@ -11,7 +11,6 @@ namespace SupplyRegion.View
         {
             InitializeComponent();
 
-            // Устанавливаем DataContext после инициализации
             DataContext = new ViewModel.AddRequestViewModel(this);
 
             Loaded += Window_Loaded;
@@ -20,7 +19,6 @@ namespace SupplyRegion.View
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            // Устанавливаем фокус на первое поле
             var initiatorTextBox = Template.FindName("InitiatorTextBox", this) as TextBox;
             initiatorTextBox?.Focus();
         }
